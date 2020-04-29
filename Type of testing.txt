@@ -1,1 +1,11 @@
-“Notes on Type of testing – Unit and Integration testing”
+Unit Testing
+
+What is unit Testing?
+Unit Testing is conducted by____________
+It is type of(blackbox/whitebox testing)
+
+Intergration Testing
+
+What is Integration Testing?
+Intergration Testing is conducted by_________
+It is type of (blackbox/ whitebox Testing)
