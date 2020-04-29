@@ -17,4 +17,4 @@ customer signs-off and accepts it.
 -Acceptance Testing is conducted by User.
 
 -It is type of (blackbox/whitebox testing)
-Whitebox.
+Whitebox
