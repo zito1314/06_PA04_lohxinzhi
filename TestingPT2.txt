@@ -1,0 +1,20 @@
+System testing 
+-What is system Testing?
+System testing is a execution of the software in
+its final configuration, including integration with
+other software and hardware systems. 
+
+-System Testing is conducted by Developer.
+
+-It is type of (blackbox/whitebox testing)
+BlackBox
+
+Acceptance testing
+-What is acceptance Testing?
+Acceptance Testing is the final test before the
+customer signs-off and accepts it. 
+
+-Acceptance Testing is conducted by User.
+
+-It is type of (blackbox/whitebox testing)
+Whitebox
